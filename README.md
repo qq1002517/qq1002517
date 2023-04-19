@@ -1,7 +1,10 @@
+
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qq1002517&show_icons=true&include_all_commits=true&hide_border=true" />
+
 ### Hi there 👋
 
 <!--
-**qq1002517/qq1002517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qq1002517/qq1002517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
